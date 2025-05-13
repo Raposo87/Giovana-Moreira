@@ -23,6 +23,13 @@ body {
     background-color: var(--bg-color);
 }
 
+/* Alinhamento de parágrafos */
+p {
+    text-align: left;
+}
+em{
+    color: var(--primary-color)
+}
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -95,9 +102,12 @@ body {
     overflow: hidden;
     display: flex;
     align-items: center;
-    justify-content: center;
     text-align: center;
+    justify-content: center;
     color: var(--white);
+}
+.banner p{
+    text-align: center;
 }
 
 .parallax-bg {
@@ -400,8 +410,8 @@ body {
 
 .investimento-card p {
     color: var(--text-color);
-    line-height: 1.8;
-    text-align: justify;
+    line-height: 1.6;
+    text-align: left;
 }
 
 /* Contato */

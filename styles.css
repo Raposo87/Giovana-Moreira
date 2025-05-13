@@ -573,7 +573,7 @@ em{
         display: none;
         position: absolute;
         top: 100%;
-        left: 0;
+        right: 0;
         width: auto;
         min-width: max-content;
         background: var(--white);
@@ -581,7 +581,7 @@ em{
         flex-direction: column;
         text-align: center;
         box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        border-radius: 0 0 10px 10px;
+        border-radius: 0 0 0 10px;
     }
 
     .menu.active {

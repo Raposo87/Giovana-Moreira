@@ -143,7 +143,7 @@ em{
     background: var(--secondary-color);
     color: var(--white);
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 50px;
     margin-top: 2rem;
     transition: background 0.3s;
 }
@@ -195,7 +195,7 @@ em{
     color: var(--white);
     border: none;
     padding: 0.5rem 1rem;
-    border-radius: 5px;
+    border-radius: 50px;
     cursor: pointer;
     font-size: 1rem;
     transition: background 0.3s ease;
@@ -318,7 +318,7 @@ em{
     background: var(--secondary-color);
     color: var(--white);
     border: none;
-    border-radius: 5px;
+    border-radius: 50px;
     cursor: pointer;
     transition: background 0.3s ease;
     font-size: 1rem;
@@ -725,7 +725,7 @@ em{
     background: var(--primary-color);
     color: var(--white);
     border: none;
-    border-radius: 5px;
+    border-radius: 50px;
     padding: 0.7rem 1.5rem;
     font-size: 1rem;
     cursor: pointer;
